@@ -8,7 +8,7 @@ The readme file is updated as the libcity library is integrated now.
 
 For a quick start guideline, please refer to the section [Quick Start](https://github.com/VAN-QIAN/CIKM23-HIEST#quick-start)
 
-For the codes and details corresponding to our core contribution, please refer to the section [Anonymous Github version](https://https://github.com/mengfanyu-hd/ABCSTN)
+For the codes and details corresponding to our core contribution, please refer to the section [Anonymous Github version](https://github.com/mengfanyu-hd/ABCSTN)
 
 If you find this repo useful, please cite it as follows,
 
